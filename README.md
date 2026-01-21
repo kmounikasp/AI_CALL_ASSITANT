@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎙️ AI Sales Call Assistant
 
 An intelligent, real-time assistant designed to empower sales representatives during calls. The assistant provides live transcription, sentiment analysis, product recommendations, and instant sales coaching—all powered by a hybrid AI system.
