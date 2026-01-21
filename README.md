@@ -101,6 +101,3 @@ cd frontend
 npm install
 npm run dev
 ```
-=======
-# AI_CALL_ASSITANT
->>>>>>> c2d8e56f112a0fd6183aaf7425aa75cc33dd9ea7
