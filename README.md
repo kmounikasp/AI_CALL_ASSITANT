@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎙️ AI Sales Call Assistant
 
 An intelligent, real-time assistant designed to empower sales representatives during calls. The assistant provides live transcription, sentiment analysis, product recommendations, and instant sales coaching—all powered by a hybrid AI system.
@@ -101,3 +102,6 @@ cd frontend
 npm install
 npm run dev
 ```
+=======
+# AI_CALL_ASSITANT
+>>>>>>> c2d8e56f112a0fd6183aaf7425aa75cc33dd9ea7
